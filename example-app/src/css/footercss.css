@@ -1,0 +1,15 @@
+#footers{
+    /* border: 1px solid red; */
+    margin-top: 100px;
+    height: 400px;
+    background-color: black;
+}
+.items{
+    display: inline-block;
+    padding-right: 7%;
+    color: white;
+    margin-top: 80px;
+}
+#footers li{
+    display: list-item;
+}

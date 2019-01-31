@@ -1,0 +1,40 @@
+
+li{
+    display: inline;
+    padding-left: 3%;
+}
+a{
+    color: white;
+}
+#bar{
+    /* border: 1px solid red; */
+    padding-top:30px;
+    background-color: black;
+    padding-bottom: 10px;
+}
+#menu{
+    /* border: 1px solid blue; */
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#logo{
+    /* border: 1px solid blue; */
+    height: 60px;
+    margin-left: 14%;
+    width: 78px;
+    background-image: url("../image/logo.png");
+}
+#logo, #login_icon{
+    display: inline-block;
+}
+#login_icon{
+    /* border: 1px solid blue; */
+    height: 30px;
+    width: 30px;
+    float: right;
+    padding-bottom: 20px;
+    margin-right: 14%;
+    background-image: url("../image/search.png");
+
+}

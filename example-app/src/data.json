@@ -1,0 +1,19 @@
+{
+    "Students":[
+        {
+            "id":"ATR2030",
+            "Name": "Bekele",
+            "year": "fourth"
+        },
+        {
+            "id":"ATR4030",
+            "Name": "kebede",
+            "year": "fifth"
+        },
+        {
+            "id":"ATR2220",
+            "Name": "Delele",
+            "year": "third"
+        }
+    ]
+}
