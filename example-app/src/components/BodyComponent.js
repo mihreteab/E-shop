@@ -20,7 +20,7 @@ class BodyComponent extends React.Component{
 
     componentWillMount() {
 
-        fetch('http://localhost:3001/hey', {
+            fetch('http://localhost:3001/hey', {
             "method":"GET",
             headers: {
                 accept: "text/html,application/xhtml+xml,application/xml"
